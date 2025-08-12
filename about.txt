@@ -1,0 +1,3 @@
+my name is pawan
+ I am studying bca
+I learned how to create repositories and edit the files in github
